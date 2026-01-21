@@ -5,19 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/EyeTrackingTest_TobiiProSDK.unity
-    guid: d0f7d7d53eebfdc469ac3b1ba0290c5b
   - enabled: 1
-    path: Assets/TobiiPro/Examples/VRDemo/Scenes/CalibrationExample.unity
-    guid: 0236b8f96bd462243977b490d2fbd707
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2314eabb1c400a645ae81ec5a63a9d05,
-      type: 2}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1fb8e2010de425a4ba7db45ec3518bc4,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dde28cb9d87ae974c9e3e86a11f2cd53,
-      type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 481b6e0a131d21041b82097729229031,
-      type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1321817f7bace784bbcb099e2ae4edde, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d33a7368715f03143b4e08cc52598c0e, type: 2}
   m_UseUCBPForAssetBundles: 0

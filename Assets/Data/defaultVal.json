@@ -1,0 +1,24 @@
+{
+    "Speed1Dur": [
+        1.0,
+        3.2,
+        5.8
+    ],
+    "Speed2Dur": [
+        2.0,
+        6.4,
+        11.6
+    ],
+    "MaxDistLowSpeed": 0.65,
+    "MinDistLowSpeed": 0.35,
+    "MaxDistHighSpeed": 1.3,
+    "MinDistHighSpeed": 0.7,
+    "PointsOccl": 2,
+    "OcclDurLow": 1,
+    "OcclDurHigh": 2,
+    "pointCount": [
+        3,
+        7,
+        13
+    ]
+}
